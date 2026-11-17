@@ -1,0 +1,24 @@
+Logo assets used by the recognition ribbon
+
+Reference: user-supplied recognition section screenshot.
+Downloaded 2026-11-04. Assets are stored locally to avoid runtime third-party requests.
+
+- PSB / IAU: https://inter.psbu.edu.kh/wp-content/uploads/2026/02/LOGO-1.png
+- DEC: https://isbs.lk/images/recognitions/distance-education-council.png
+- UGC and UK accredited: extracted from https://isbs.lk/images/recognitions/uk-ugc-recognition.png
+- IEAC: https://inter.psbu.edu.kh/wp-content/uploads/2025/10/IEAC-copy.jpg
+- INQAAHE: https://inter.psbu.edu.kh/wp-content/uploads/2024/07/Inqaahe-copy.png
+- WES: https://inter.psbu.edu.kh/wp-content/uploads/2024/07/Wes-1.png
+- THE: https://inter.psbu.edu.kh/wp-content/uploads/2024/07/Times-Copy.png
+- CPD: https://inter.psbu.edu.kh/wp-content/uploads/2024/10/CPD-Member-PSBU.jpeg
+- ASIC: https://www.asic.org.uk/assets/img/logo.svg
+- WHED: https://whed.net/images/Logo_WHED.png
+- UNESCO: https://whed.net/images/unesco.png
+
+Logos reproduce the requested visual reference; they do not independently verify programme recognition. The existing recognition guidance below this section is retained.
+
+Credibility section images: rendered and cropped from the user-supplied PowerPoint Presentation.pdf (28 pages).
+- awarding-pathway.webp: page 12, convocation photograph.
+- ugc-letter.webp: page 2, UGC letter dated 11 August 2023.
+- certificate-profile.webp: page 12, certificate example and convocation photograph.
+Section text is attributed to pages 2, 3, 4 and 12 of the supplied programme document.
