@@ -5,7 +5,7 @@ import { ArrowUpRight, CalendarDays, Clock3 } from 'lucide-react'
 import { SectionHeading } from '@/components/sitc/section-heading'
 
 type Countdown = { days: number; hours: number; minutes: number; seconds: number } | null
-const firstLecture = new Date('2027-12-06T20:00:00+05:30')
+const firstLecture = new Date('2026-12-06T20:00:00+05:30')
 
 function getCountdown(): Countdown {
   const remaining = firstLecture.getTime() - Date.now()
@@ -41,7 +41,7 @@ export function IntakeSection() {
             titleId="intake-title"
 
             title={<>Plan your next<br />chapter.</>}
-            description="The next intake begins in December 2027. Join the first lecture on 06 December 2027 at 8:00 PM Sri Lanka time."
+            description="The next intake begins in December 2026. Join the first lecture on 06 December 2026 at 8:00 PM Sri Lanka time."
             light
           />
           <a className="button button--gold" href="https://wa.link/bsc-psychology" target="_blank" rel="noreferrer noopener">
@@ -52,7 +52,7 @@ export function IntakeSection() {
           <div className="intake-card__heading">
             <div>
               <p className="intake-card__eyebrow"><Clock3 aria-hidden="true" size={15} /> First Lecture</p>
-              <h3>06 <span>December</span> 2027</h3>
+              <h3>06 <span>December</span> 2026</h3>
             </div>
             <CalendarDays aria-hidden="true" className="intake-card__calendar-icon" size={26} />
           </div>

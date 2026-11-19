@@ -164,7 +164,7 @@ export const faqs = [
   },
   {
     question: 'When is the next intake?',
-    answer: 'The next intake is December 2027. Contact SITC for the timetable and scholarship availability.',
+    answer: 'The next intake is December 2026. Contact SITC for the timetable and scholarship availability.',
   },
   {
     question: 'Are classes online, and when are they held?',
@@ -225,7 +225,7 @@ export const guidanceNotes = {
   fees: 'The supplied brochure lists LKR 14,500 per month for 24 months, a LKR 20,700 registration fee. Confirm current fees with SITC before payment.',
   eligibility: 'Entry requirements and exemptions are subject to review by SITC admissions. This page provides preliminary guidance only.',
   recognition: 'The supplied brochure names PSB University as the awarding body. Current recognition, accreditation, membership and awarding details require official verification with SITC.',
-  intake: 'The next intake is December 2027. Contact SITC for the timetable and scholarship availability.',
+  intake: 'The next intake is December 2026. Contact SITC for the timetable and scholarship availability.',
   faculty: 'Names shown are listed in the supplied brochure. Ask admissions for the current teaching team.',
   community: 'These activities are documented in the supplied materials. Confirm current partners and initiatives before publication.',
 }
